@@ -1,0 +1,261 @@
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+<HEAD>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+
+<TITLE>registration form</TITLE>
+<style>
+<!--
+h2
+	{margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:45.0pt;
+	font-family:"Times New Roman";
+	letter-spacing:3.0pt;
+	font-weight:normal; margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</HEAD>
+<BODY>
+<H1><img border="0" src="Web%20Folder%20Sample/images/logo%203.jpg" width="148" height="80"></H1>
+<H1><font size="4">Certificate Information Form</font></H1>
+<HR>
+<P>
+Please fill in the blanks below as you would like the information to appear on 
+your  Certificate of Completion.&nbsp;  </P>
+<P>
+<span style="font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size: 12.0pt; font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>&nbsp;&nbsp;&nbsp;&nbsp; </b></span>
+</P>
+<P>
+<img border="0" src="Web%20Folder%20Sample/images/Windows%20line.jpg" width="655" height="13"></P>
+<!--webbot BOT="GeneratedScript" PREVIEW=" " startspan --><script Language="JavaScript" Type="text/javascript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  if (theForm.Contact_FirstName.value == "")
+  {
+    alert("Please enter a value for the \"First Name\" field.");
+    theForm.Contact_FirstName.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_FirstName.value.length < 1)
+  {
+    alert("Please enter at least 1 characters in the \"First Name\" field.");
+    theForm.Contact_FirstName.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ- \t\r\n\f";
+  var checkStr = theForm.Contact_FirstName.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, whitespace and \"-\" characters in the \"First Name\" field.");
+    theForm.Contact_FirstName.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_LastName.value == "")
+  {
+    alert("Please enter a value for the \"Last Name\" field.");
+    theForm.Contact_LastName.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_LastName.value.length < 2)
+  {
+    alert("Please enter at least 2 characters in the \"Last Name\" field.");
+    theForm.Contact_LastName.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ- \t\r\n\f";
+  var checkStr = theForm.Contact_LastName.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, whitespace and \"-\" characters in the \"Last Name\" field.");
+    theForm.Contact_LastName.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_Credentials.value == "")
+  {
+    alert("Please enter a value for the \"Contact_Credentials\" field.");
+    theForm.Contact_Credentials.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ, \t\r\n\f";
+  var checkStr = theForm.Contact_Credentials.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, whitespace and \",\" characters in the \"Contact_Credentials\" field.");
+    theForm.Contact_Credentials.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_CredentialsLicenseNo.value == "")
+  {
+    alert("Please enter a value for the \"Contact_CredentialsLicenseNo\" field.");
+    theForm.Contact_CredentialsLicenseNo.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ0123456789--,/ \t\r\n\f";
+  var checkStr = theForm.Contact_CredentialsLicenseNo.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, digit, whitespace and \"-,/\" characters in the \"Contact_CredentialsLicenseNo\" field.");
+    theForm.Contact_CredentialsLicenseNo.focus();
+    return (false);
+  }
+
+  if (theForm.Contact_Email.value == "")
+  {
+    alert("Please enter a value for the \"Contact_Email\" field.");
+    theForm.Contact_Email.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ0123456789-.,/@";
+  var checkStr = theForm.Contact_Email.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, digit and \".,/@\" characters in the \"Contact_Email\" field.");
+    theForm.Contact_Email.focus();
+    return (false);
+  }
+  return (true);
+}
+//--></script><!--webbot BOT="GeneratedScript" endspan --><FORM METHOD="POST" ACTION="_derived/nortbots.htm" name="FrontPage_Form1" onSubmit="location.href='_derived/nortbots.htm';return false;" webbot-action="--WEBBOT-SELF--" language="JavaScript" webbot-onSubmit="return FrontPage_Form1_Validator(this)">
+<!--webbot bot="SaveResults" U-File="_private/RD cert info form/basicbia RD form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" B-Reverse-Chronology="FALSE" U-File="_private/RD cert info form/registration_info_form_results.htm" S-Format="HTML/BR" S-Label-Fields="TRUE" B-Reverse-Chronology="FALSE" S-Date-Format="%m/%d/%y" S-Time-Format="%I:%M %p" S-Builtin-Fields="REMOTE_NAME REMOTE_USER HTTP_USER_AGENT Date Time" U-Confirmation-Url="RD Cert.htm" startspan --><input TYPE="hidden" NAME="VTI-GROUP" VALUE="0"><!--webbot bot="SaveResults" i-checksum="43374" endspan --><BLOCKQUOTE>
+<TABLE background="Web%20Folder%20Sample/images/meeting%20clip%20art.gif" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0">
+<TR>
+<TD ALIGN="right">
+<EM><a name="First Name">First Name</a>&nbsp; </EM></TD>
+<TD>
+&nbsp;<!--webbot bot="Validation" s-display-name="First Name" s-data-type="String" b-allow-letters="TRUE" b-allow-whitespace="TRUE" s-allow-other-chars="-" b-value-required="TRUE" i-minimum-length="1" --><INPUT NAME="Contact_FirstName" SIZE=25 tabindex="1">
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right">
+<EM>Last Name</EM></TD>
+<TD>
+&nbsp;<!--webbot bot="Validation" s-display-name="Last Name" s-data-type="String" b-allow-letters="TRUE" b-allow-whitespace="TRUE" s-allow-other-chars="-" b-value-required="TRUE" i-minimum-length="2" --><INPUT NAME="Contact_LastName" SIZE=25 tabindex="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right">
+<em>Credentials</em></TD>
+<TD>
+&nbsp;<!--webbot bot="Validation" s-data-type="String" b-allow-letters="TRUE" b-allow-whitespace="TRUE" s-allow-other-chars="," b-value-required="TRUE" --><INPUT NAME="Contact_Credentials" SIZE=25 tabindex="11" style="color: #FF0000; font-size: 10pt; font-style: italic"></TD>
+</TR>
+<TR>
+<TD ALIGN="right">
+<em>Credential/License No</em></TD>
+<TD>
+&nbsp;<!--webbot bot="Validation" s-data-type="String" b-allow-letters="TRUE" b-allow-digits="TRUE" b-allow-whitespace="TRUE" s-allow-other-chars="-,/" b-value-required="TRUE" --><INPUT NAME="Contact_CredentialsLicenseNo" SIZE=25 tabindex="12" style="color: #FF0000; font-size: 10pt; font-style: italic"> </TD>
+</TR>
+<TR>
+<TD ALIGN="right">
+<em>&nbsp;</em></TD>
+<TD>
+&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="right">
+<EM>E-mail</EM></TD>
+<TD>
+<!--webbot bot="Validation" s-data-type="String" b-allow-letters="TRUE" b-allow-digits="TRUE" s-allow-other-chars=".,/@" b-value-required="TRUE" --><INPUT NAME="Contact_Email" SIZE=25 tabindex="14">
+</TD>
+</TR>
+</TABLE>
+</BLOCKQUOTE>
+<a href="RD%20Cert.htm">
+<INPUT TYPE=submit VALUE="Submit"></a>&nbsp;&nbsp; </FORM>
+<HR>
+<H5>
+<font size="1">RFG Hi-<i>R</i>-Ed.<br>Copyright © 2001Hi-<i>R</i>-Ed.org. All rights reserved. <BR>
+Revised: 
+<!--WEBBOT BOT=TimeStamp
+    S-Type="EDITED"
+    S-Format="%m/%d/%y" startspan
+-->03/04/15<!--webbot bot="TimeStamp" i-checksum="12978" endspan --></font></H5>
+</BODY>
+</HTML>

@@ -1,0 +1,25 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|DESKTOP-HNEP0DC\\Mufasa
+vti_modifiedby:SR|DESKTOP-HNEP0DC\\Mufasa
+vti_timelastmodified:TR|27 Sep 2019 15:53:14 -0000
+vti_timecreated:TR|27 Sep 2019 14:57:09 -0000
+vti_title:SR|MSW Cert
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|
+vti_nexttolasttimemodified:TW|27 Sep 2019 15:50:49 -0000
+vti_syncwith_hi-r-ed.com\:80:TW|27 Sep 2019 15:53:14 -0000
+vti_cacheddtm:TX|27 Sep 2019 15:53:14 -0000
+vti_filesize:IR|6752
+vti_cachedtitle:SR|MSW Cert
+vti_cachedbodystyle:SR|<body>
+vti_cachedlinkinfo:VX|H|result_files/filelist.xml
+vti_cachedsvcrellinks:VX|NHUS|ASWB/NADP/MSW\\ Cert_files/result_files/filelist.xml
+vti_cachedneedsrewrite:BR|true
+vti_cachedhasbots:BR|true
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_metatags:VR|HTTP-EQUIV=Content-Language en-us GENERATOR Microsoft\\ FrontPage\\ 6.0 ProgId FrontPage.Editor.Document HTTP-EQUIV=Content-Type text/html;\\ charset=windows-1252
+vti_charset:SR|windows-1252
+vti_language:SR|en-us
+vti_progid:SR|FrontPage.Editor.Document
+vti_generator:SR|Microsoft FrontPage 6.0

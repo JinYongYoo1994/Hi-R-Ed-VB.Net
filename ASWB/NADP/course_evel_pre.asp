@@ -1,0 +1,71 @@
+<% @language="vbscript" %>
+<!--#include virtual="/_private/login.inc"-->
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table border="1" cellspacing="0" width="950" cellpadding="4" bordercolorlight="#013554" bordercolordark="#013554" style="border-collapse: collapse" bordercolor="#111111">
+  <tr>
+    <td width="9%" bgcolor="#006B85" valign="top" style="border:medium none; vertical-align: top; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; text-align:general; padding-left:1.0px; padding-right:1.0px; padding-top:1.0px">
+    <a target="_blank" href="../Instructions.htm">
+    <img border="0" src="../../Byram/CAUTI/images/Resources-LC.jpg" width="90" height="68"></a><font face="Copperplate Gothic Bold" size="1" color="#FFFFFF"><b> </b>
+    <font color="#FFFFFF">
+    Instructions</font></font><p>
+    <a href="mailto:comments@hi-r-ed.org?subject=I have a question re: Non-Adherent Diabetes Patient Course">
+    <img border="0" src="../../Byram/CAUTI/images/Take_Another_Course-LC2.jpg" width="89" height="63"></a><font face="Copperplate Gothic Bold" size="1" color="#FFFFFF"><b>
+    </b>
+	<a href="mailto:comments@hi-r-ed.org?subject=I have a question re: Non-Adherent Diabetes Patient Course">
+	<font color="#FFFFFF">Ask a question</font></a></font></p>
+    <p><u><font size="6" color="#0000FF" face="Arial">
+    <b>
+    <a target="_blank" href="CCM%20Evaluation.asp">
+    <img border="0" src="../../Byram/CAUTI/images/Instructions-LC.jpg" width="90" height="68"></a><a href="../../Byram/IVAbx/cellulitis%20quiz.asp"> </a> </b></font></u>
+    <font color="#FFFFFF" face="Copperplate Gothic Bold" size="1">Post-Test</font></p>
+    </td>
+    <td width="87%" bgcolor="#006B85" valign="top" style="border:medium none; vertical-align: top; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; text-align:general; padding-left:1.0px; padding-right:1.0px; padding-top:1.0px">
+    <table border="1" cellspacing="1" width="100%" bgcolor="#FFFFFF" cellpadding="4" height="14%" id="table2" style="border-collapse: collapse">
+      <tr>
+        <td width="100%" height="56" style="color: windowtext; font-size: 18.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; border: medium none; padding-left: 1.0px; padding-right: 1.0px; padding-top: 1.0px">
+        <div style="mso-line-spacing: 100 30 0; mso-margin-left-alt: 144; mso-char-wrap: 1; mso-kinsoku-overflow: 1">
+			<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+			<p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+
+			<table border="0" width="100%" bgcolor="#DBCEAC" style="border-collapse: collapse">
+				<tr>
+					<td align="left" style="color: windowtext; font-size: 18.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; border: medium none; padding-left: 1.0px; padding-right: 1.0px; padding-top: 1.0px">
+					<b>Testing</b></td>
+				</tr>
+			</table>
+			<p style="text-align: left; direction: ltr; unicode-bidi: embed; punctuation-wrap: hanging; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</p>
+			<p style="text-align: left; direction: ltr; unicode-bidi: embed; punctuation-wrap: hanging; margin-top: 0pt; margin-bottom: 0pt">
+			<font size="3">You will now be taken to the Course Evaluation, which 
+			must be completed before the Post-test may be taken.</font></p>
+			<p style="text-align: left; direction: ltr; unicode-bidi: embed; punctuation-wrap: hanging; margin-top: 0pt; margin-bottom: 0pt">
+			&nbsp;</p>
+			<p style="text-align: left; direction: ltr; unicode-bidi: embed; punctuation-wrap: hanging; margin-top: 0pt; margin-bottom: 0pt">
+			<b><font size="3"><a href="CCM%20Evaluation.htm">Course Evaluation</a></font></b></p>
+			<div class="O0" style="language:en-US;margin-top:5.28pt;margin-bottom:0pt;
+margin-left:.38in;text-indent:-.38in;text-align:left;direction:ltr;unicode-bidi:
+embed;vertical-align:baseline;mso-line-break-override:restrictions;punctuation-wrap:
+simple">
+				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</div>
+		</div>
+		</td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  </table>
+
+</body>
+
+</html>

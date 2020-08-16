@@ -1,0 +1,29 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|DESKTOP-HNEP0DC\\Mufasa
+vti_modifiedby:SR|DESKTOP-HNEP0DC\\Mufasa
+vti_timelastmodified:TR|11 Oct 2019 10:53:42 -0000
+vti_timecreated:TR|27 Sep 2019 04:07:15 -0000
+vti_title:SR|Sponsors
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|default.htm Registration\\ Confirmation.htm
+vti_nexttolasttimemodified:TW|27 Sep 2019 18:27:44 -0000
+vti_syncwith_hi-r-ed.com\:80:TW|11 Oct 2019 10:53:42 -0000
+vti_cacheddtm:TX|11 Oct 2019 10:53:42 -0000
+vti_filesize:IR|74545
+vti_cachedtitle:SR|Sponsors
+vti_cachedbodystyle:SR|<body leftmargin="45" bgcolor="#FFFFFF">
+vti_cachedlinkinfo:VX|S|logo\\ complete(med).jpg H|ASWB/NADP/(intro).asp H|Byram/CAUTI/(intro).asp H|Byram/OAB/(intro).htm H|Byram/Insulin_Pumps/(intro).htm H|Byram/Absorb_Incon/(intro).htm H|Byram/Essen_of_Diab/Essen\\ of\\ Diab(intro).htm H|Byram/Diab&Exer/(intro).htm H|Byram/Byram\\ NutrinWounds/NutrinWounds\\ (intro).htm H|Byram/Enterals/(intro).htm H|Byram/Falls_Prevention/(intro).htm H|Byram/Gest_Diab/(intro).htm H|Byram/Diabetic_Foot/(intro).htm H|Byram/Caring_for_your_Ostomy/Caring4Ostomy\\ (intro).htm H|Byram/Byram\\ Reim/Reim\\ (intro).htm H|_private/Byram/Byram/Diabetes\\ JC/Diabetes\\ JC\\ (intro).htm H|Byram/Wound\\ Care\\ JC/WC\\ JC\\ (intro).htm H|Byram/Type-1_Diab/(intro).htm H|Byram/Type-2_Diab/(intro).htm H|Byram/Diabetes\\ TC/Diab\\ TC\\ (intro).htm H|Byram/Wound\\ Care\\ TC/WC\\ TC\\ (intro).htm H|Byram/Ostomy\\ JC/Ostomy\\ JC\\ (intro).htm H|Byram/Ostomy\\ TC/Ostomy\\ TC\\ (intro).htm H|Optioncare/MS/MS\\ (intro).htm H|Optioncare/hepc/HepC\\ (intro).htm H|alzheimers/alzheimers\\ (intro).htm H|TRO/TPN/TPN\\ (intro).htm H|TRO/IVAbx/IV\\ Abx\\ (intro).htm H|Optioncare/painmgmt/painmgmt\\ (intro).htm H|Optioncare/remicade/Infliximab\\ (intro).htm H|Optioncare/nutrsupp/NutrSupp\\ (intro).htm H|Optioncare/rsv/RSV\\ (intro).htm H|Optioncare/hemoandfactor/hemo\\ (intro).htm H|Optioncare/tpninhome/TPNinHome\\ (intro).htm H|Optioncare/Cellulitis/cellulitis\\ (intro).htm H|Anthro/Introduction\\ (p1a).htm H|biabasics/Introduction\\ (p1).htm H|_private/Byram/authors\\ (p1).htm H|bia/bia_course_instructions(p1).htm H|_private/Byram/authors\\ (p1).htm H|wasting/Introduction.htm H|_private/Byram/authors\\ (p1).htm B|/F:/Projects/Frontpage/hi-r-ed.com/_private/sponsors(new).asp.cnt W|_private/sponsors(new).asp.cnt
+vti_cachedsvcrellinks:VX|NSUS|logo\\ complete(med).jpg FHUS|ASWB/NADP/(intro).asp FHUS|Byram/CAUTI/(intro).asp FHUS|Byram/OAB/(intro).htm NHUS|Byram/Insulin_Pumps/(intro).htm NHUS|Byram/Absorb_Incon/(intro).htm NHUS|Byram/Essen_of_Diab/Essen\\ of\\ Diab(intro).htm NHUS|Byram/Diab&Exer/(intro).htm NHUS|Byram/Byram\\ NutrinWounds/NutrinWounds\\ (intro).htm NHUS|Byram/Enterals/(intro).htm NHUS|Byram/Falls_Prevention/(intro).htm NHUS|Byram/Gest_Diab/(intro).htm NHUS|Byram/Diabetic_Foot/(intro).htm NHUS|Byram/Caring_for_your_Ostomy/Caring4Ostomy\\ (intro).htm NHUS|Byram/Byram\\ Reim/Reim\\ (intro).htm NHUS|_private/Byram/Byram/Diabetes\\ JC/Diabetes\\ JC\\ (intro).htm NHUS|Byram/Wound\\ Care\\ JC/WC\\ JC\\ (intro).htm NHUS|Byram/Type-1_Diab/(intro).htm NHUS|Byram/Type-2_Diab/(intro).htm NHUS|Byram/Diabetes\\ TC/Diab\\ TC\\ (intro).htm NHUS|Byram/Wound\\ Care\\ TC/WC\\ TC\\ (intro).htm NHUS|Byram/Ostomy\\ JC/Ostomy\\ JC\\ (intro).htm NHUS|Byram/Ostomy\\ TC/Ostomy\\ TC\\ (intro).htm NHUS|Optioncare/MS/MS\\ (intro).htm NHUS|Optioncare/hepc/HepC\\ (intro).htm NHUS|alzheimers/alzheimers\\ (intro).htm NHUS|TRO/TPN/TPN\\ (intro).htm NHUS|TRO/IVAbx/IV\\ Abx\\ (intro).htm NHUS|Optioncare/painmgmt/painmgmt\\ (intro).htm NHUS|Optioncare/remicade/Infliximab\\ (intro).htm NHUS|Optioncare/nutrsupp/NutrSupp\\ (intro).htm NHUS|Optioncare/rsv/RSV\\ (intro).htm NHUS|Optioncare/hemoandfactor/hemo\\ (intro).htm NHUS|Optioncare/tpninhome/TPNinHome\\ (intro).htm NHUS|Optioncare/Cellulitis/cellulitis\\ (intro).htm NHUS|Anthro/Introduction\\ (p1a).htm NHUS|biabasics/Introduction\\ (p1).htm NHUS|_private/Byram/authors\\ (p1).htm NHUS|bia/bia_course_instructions(p1).htm NHUS|_private/Byram/authors\\ (p1).htm NHUS|wasting/Introduction.htm NHUS|_private/Byram/authors\\ (p1).htm FBUS|_private/sponsors(new).asp.cnt
+vti_cachedneedsrewrite:BR|true
+vti_cachedhasbots:BR|true
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|true
+vti_botancillaryfiles:VX|_private/sponsors(new).asp.cnt
+vti_error0:SX|This page contains a FrontPage Hit Counter component that will not function properly until you publish your FrontPage Web to a server.
+vti_error:IX|1
+vti_metatags:VR|HTTP-EQUIV=Content-Language en-us GENERATOR Microsoft\\ FrontPage\\ 6.0 ProgId FrontPage.Editor.Document HTTP-EQUIV=Content-Type text/html;\\ charset=windows-1252
+vti_charset:SR|windows-1252
+vti_language:SR|en-us
+vti_progid:SR|FrontPage.Editor.Document
+vti_generator:SR|Microsoft FrontPage 6.0
+vti_hasruntimebots:BR|true
